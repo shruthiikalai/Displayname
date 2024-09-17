@@ -1,8 +1,10 @@
+import React from "react";
+import Input from "./InputComponent";
 
 function App() {
   return (
     <div className="App">
-      <p>Hello All</p>
+      <Input />
     </div>
   );
 }
